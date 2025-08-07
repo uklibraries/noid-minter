@@ -15,7 +15,7 @@ from noid_minter.minter import Minter
 minter = Minter({"template": "xt7.reeedeeedk", "naan": "16417"})
 the_ark = minter.mint().ark # e.g. 16417/xt74xg9f4v1p
 
-dump = Minter.to_json() # JSON string
+dump = minter.to_json() # JSON string
 minter2 = Minter.load(dump)
 ```
 
