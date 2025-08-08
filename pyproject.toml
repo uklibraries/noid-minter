@@ -1,6 +1,6 @@
 [project]
 name = "noid-minter"
-version = "0.1.5"
+version = "0.1.6"
 description = "An ARK minter based on Noid."
 authors = [{ name = "MLE Slone", email = "m.slone@gmail.com" }]
 requires-python = "~=3.12"

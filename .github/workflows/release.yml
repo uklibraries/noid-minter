@@ -32,7 +32,7 @@ jobs:
           path: dist/
 
   publish-to-pypi:
-    name: Publish python distgribtion to PyPI
+    name: Publish lython distribution to PyPI
     if: startsWith(github.ref, 'refs/tags/')
     needs:
     - build
