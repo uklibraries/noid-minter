@@ -1,4 +1,4 @@
-noid-minter
+[noid minter](noid-minter)
 ===========
 
 This is an [Archival Resource Key (ARK)](https://arks.org/about/) minter.
@@ -51,4 +51,4 @@ PRNGs for minter. We welcome suggestions and code.
 License
 -------
 
-Copyright (C) 2024 MLE Slone. Licensed under the [MIT license](LICENSE.md).
+Copyright (C) 2024-2025 MLE Slone. Licensed under the [MIT license](LICENSE.md).
