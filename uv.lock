@@ -184,7 +184,7 @@ wheels = [
 
 [[package]]
 name = "noid-minter"
-version = "0.1.7"
+version = "0.1.8"
 source = { editable = "." }
 dependencies = [
     { name = "pyrand48" },
